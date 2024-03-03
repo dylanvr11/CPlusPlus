@@ -10,6 +10,6 @@ int main(){
 	Santiago.edad = 20;
 	Santiago.tel = 31654575476;
 	cout << Santiago.edad << endl;
-	cin.get();
+	cin.get(); //Exti program
 	return 0;
 }
